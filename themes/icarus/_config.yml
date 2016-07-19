@@ -1,11 +1,7 @@
 # Menus
 menu:
-  Home: .
-  Archives: archives
-  Categories: categories
-  Tags: tags
   About: about
-
+  Archives: archives
 # Customize
 customize:
     logo:
@@ -27,6 +23,7 @@ customize:
     favicon: # path to favicon
     social_links:
         github: https://github.com/soopdop
+        linkedin: https://www.linkedin.com/in/%EC%88%9C%EB%8F%99-%EB%B0%95-225748122
     social_link_tooltip: true # enable the social link tooltip, options: true, false
 
 # Widgets

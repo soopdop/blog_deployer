@@ -5,7 +5,7 @@ menu:
 # Customize
 customize:
     logo:
-        enabled: true
+        enabled: false
         width: 40
         height: 40
         url: images/logo.png

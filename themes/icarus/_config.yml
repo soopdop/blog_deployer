@@ -13,17 +13,17 @@ customize:
         enabled: true # Whether to show profile bar
         avatar: css/images/avatar.jpg
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-        author: soopdop
-        author_title: Software Developer
+        author: Soopdop
+        author_title: Software Engineer
         location: Seoul, Korea
-        follow: https://github.com/soopdop
+        follow: https://www.linkedin.com/in/soondong-park
     highlight: monokai
     sidebar: right # sidebar position, options: left, right
     thumbnail: false # enable posts thumbnail, options: true, false
     favicon: # path to favicon
     social_links:
         github: https://github.com/soopdop
-        linkedin: https://www.linkedin.com/in/%EC%88%9C%EB%8F%99-%EB%B0%95-225748122
+        linkedin: https://www.linkedin.com/in/soondong-park
     social_link_tooltip: true # enable the social link tooltip, options: true, false
 
 # Widgets

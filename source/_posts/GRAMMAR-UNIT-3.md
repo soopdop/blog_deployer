@@ -40,6 +40,20 @@ tags:
 > She**'s owned** a successful business for 15 years.
 > He **has lived** here all his life.
 
+3. 나중에 알게 된 것 : ***p.p.의 continue에 대해서***
+    * p.p.p.가 나오기 전 p.p.의 continue 예제는 ***Stative Verb와 Habitual action Verb*** 에 국한이 되어 있었음. 즉, run과 같이 일반적인 action verb는 p.p.p.를 쓰는 것으로 continue를 표현 한다고 함.
+    * continue라는 것에는 세가지 의미가 있음. 셋다 p.p.p.를 사용
+        1. 15분 전부터 지금까지 계속 달리고 있다.
+        2. 20년 전부터 지금까지 계속 달리고 있다. (아침마다)
+        3. 20년 전부터 지금까지 쉬지 않고 계속 달리고 있다. (일반적으로 불가능 하나, 이 경우에도 같은 표현 사용.)
+
+4. 나중에 알게 된 것 : recently와 lately와의 차이
+    * 둘다 최근에 라고 해석하게 되면 차이를 알 수 없으므로 답이 없음.
+    * http://www.englishpage.net/showthread.php?1750-Recently-lately 에서 찾은 답변:
+        * "Recently" means "at a time in the near past" or "during an interval in the near past".
+        * "Lately" means "within a short time past".
+        * 즉, recently는 두가지 뜻이 있어서 simple past와 쓸 수 있지만, lately는 simple past와 안어울림.
+
 #### Recent action
         
 1. Use the present perfect to describe a **recent action**.
@@ -96,68 +110,10 @@ tags:
 2. Use the present perfect progressive to express *how long*.
     * (나) 위에서 언급한 habitual action 이외의 동사에 대해서는 p.p.p.만 사용한다
     * (질문) p.p.는 쓸수 없는가? 이전에 배운것으로는 for/since를 주면 가능 한 것으로 보이지만 의미가 다른가? 같은가?
+        * (답) 일반적으로 action에 대해서 continue를 의미하려면 p.p.p.가 훨씬 자연스럽다고 한다.
 
-# Verb Forms
 
-| present | past | past participle |
-| ------|--------|--------|
-| buy | bought | bought |
-|break|broke|broken|
-| hide|hid|hidden|
-| teach|taught|taught|
-| make|made|made|
-| win|won|won|
-| ride|rode|ridden|
-| fly|flew|flown|
-| catch|caught|caught|
-| leave|left|left|
-| dig|dug|dug|
-| drive|drove|driven|
-| draw|drew|drawn|
-| build|built|built|
-| forget|forgot|forgotten|
-| fall|fell|fallen|
-| hold|held|held|
-| steal|stole|stolen|
-| eat|ate|eaten|
-| swing|swung|swung|
-| feed|fed|fed|
-| split|split|split|
-| hit|hit|hit|
-| read|read|read|
-| grow|grew|grown|
-| tear|tore|torn|   
-| cook| cooked| cooked|
-| teach| taught| taught|
-| hang| hung |hung|
-| become |became| become|
-| see |saw| seen|
-| go| went| gone|
-| cost| cost| cost|
-| hit| hit| hit|
-| begin |began| begun|
-| take| took| **taken**|
-| lose |lost| lost|
-| drink| **drank**| drunk|
-| keep| kept| kept|
-| make| made| made|
-| say |said| said|
-| throw| threw| thrown|
-| speak| spoke| spoken|
-| do |did |done|
-| sing| sang| sung|
-| break| broke| broken|
-| hear| heard| heard|
-| sleep| slept| slept|
-| lie |lied |lied|
-| **lie**| **lay**| **lay**|
-| **lay**| **laid** |**laid**|
-| **rise**| **rose**| **risen**|
-| **raise**| **raised** |**raised**|
-| **sit**|**sat** |**sat**|
-| set |set| set|
-    
-    
+
 # My Vocabulary
 * prime minister
 * strikingly

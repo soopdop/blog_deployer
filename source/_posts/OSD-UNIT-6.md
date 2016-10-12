@@ -31,15 +31,101 @@ tags:
 * ~~community - a group of people who live in the same town~~
 * afford - to have enough money to pay for something
 * salary - money that workers receive regularly as payment for their work 
-* souvenir
-* tourist attraction
-* tradition
 * get off the beaten path - to go somewhere that most tourists don't visit.
 * locals - people who live in a place year around.
 * have an impact - to have an effect on someone or something.
 * in the long run - far in the future.
 * way of life - customs and habits of daily living.
 * find a compromise - to look for ideas that opposing groups can agree on.
+* zoo - animal park, wildlife center
+* afford - have money for, pay for
+* controversy - argument, debate
+* degrading - embarrassing, painful
+* make a living - earn a salary, get paid
+* preserve - save, care for
+* souvenir - reminder, keepsake
+* tourist attraction - place to see, point of interest
+* tradition - habit, belief
+* community - small town, village
+
+
+# Grammar
+
+## Predictions with will and IF-CLAUSES
+
+1. Use ***will*** and ***will not(won't)*** to make predictions.
+> It **will rain** again next week.
+> The**'ll stay** home.
+
+2. Use ***probably*** with ***will*** to show less certainty.
+> Business **will probably be** slow all week.
+> I **probably won't** make enough money.
+
+3. Use ***if-clause*** to talk about possible results in the future.
+> We**'ll have** a lot of problem **if** the rain **continues.**
+
+# Pronunciation
+The letter ***O*** has many different pronunciations in English.
+
+## /ow/
+* g**o**
+* h**o**me
+* b**o**ne
+* p**o**se
+* h**o**pe
+* cl**o**se
+* prop**o**sal
+* w**o**n't
+* v**o**te
+* l**o**cal
+* s**o**ld
+* **o**cean
+
+## /a/
+* sh**o**p
+* l**o**t
+* j**o**b
+* c**o**mmerce
+* pr**o**blem
+* p**o**sitive
+* pr**o**gress
+* econ**o**mic
+* m**o**dern
+* p**o**pular
+* c**o**ntroversy
+* **o**ption
+* h**o**spital
+
+## /ə/
+* c**o**me
+* m**o**ther
+* br**o**ther
+* l**o**ve
+* **o**ther
+* m**o**nth
+* m**o**ney
+* c**o**mpany
+* d**o**ne
+
+# Speaking skill
+
+## Making suggestions
+
+### Strong
+
+* ***We should (definitely)*** visit an elephant park.
+* ***We (definitely) shouldn't*** visit an elephant park.
+* ***Let's (not)*** visit an elephant park.
+* ***I think / don't think*** we should visit an elephant park.
+
+### Weaker
+
+* ***One option is to*** visit an elephant park.
+* ***We might (not) want to*** visit an elephant park.
+* ***We could*** visit an elephant park.
+* ***Why don't we*** visit an elephant park.
+* ***What do you*** think of visiting an elephant park?
+* ***How about*** visiting an elephant park?
 
 
 # My vocabulary

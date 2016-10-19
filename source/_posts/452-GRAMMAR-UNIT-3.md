@@ -1,9 +1,10 @@
 ---
-title: '[GRAMMAR] UNIT 3 - Present Perfect and Present Perfect Progressive'
+title: '[452][GRAMMAR] UNIT 3 - Present Perfect and Present Perfect Progressive'
 date: 2016-09-29 23:20:22
 categories: 
 - English study
 tags:
+- 452
 - English study
 - grammar
 ---
@@ -41,7 +42,7 @@ tags:
 > He **has lived** here all his life.
 
 3. 나중에 알게 된 것 : ***p.p.의 continue에 대해서***
-    * p.p.p.가 나오기 전 p.p.의 continue 예제는 ***Stative Verb와 Habitual action Verb*** 에 국한이 되어 있었음. 즉, run과 같이 일반적인 action verb는 p.p.p.를 쓰는 것으로 continue를 표현 한다고 함.
+    * p.p.p.가 나오기 전 p.p.의 continue 예제는 ***stative verb와 Habitual action verb*** 에 국한이 되어 있었음. 즉, run과 같이 일반적인 action verb는 p.p.p.를 쓰는 것으로 continue를 표현 한다고 함.
     * continue라는 것에는 세가지 의미가 있음. 셋다 p.p.p.를 사용
         1. 15분 전부터 지금까지 계속 달리고 있다.
         2. 20년 전부터 지금까지 계속 달리고 있다. (아침마다)

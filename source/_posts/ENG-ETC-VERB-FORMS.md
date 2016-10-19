@@ -1,13 +1,12 @@
----
-title: '[GRAMMAR] UNIT 3 - verb forms'
-date: 2016-09-29 23:20:23
+layout: blog
+title: '[ETC] Verb forms'
+date: 2016-10-12 21:04:55
 categories: 
 - English study
 tags:
 - English study
-- grammar
+- etc
 ---
-
 
 
 # Verb Forms

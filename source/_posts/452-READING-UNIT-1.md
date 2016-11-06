@@ -11,49 +11,17 @@ tags:
 
 # READIING 1
 
-## vocabulary
-* ~~stranger (*n.*) a person you do not know~~
-* ~~demonstrate (*v.*) to show or explain how to do something~~
-* ~~confidence (*n.*) the feeling that you are sure about your own beliefs or abilities~~
-* ~~standards (*n.*) a level of quality that you use to compare things~~
-* ~~cultural (*adj.*) connected with art, music, or literature~~
-* ~~select (*v.*) to choose someone or something from similar people or things~~
-* ~~appreciate (*v.*) to enjoy to understand the value of someone or something~~
-* ~~impress (*v.*) to make someone admire and respect you~~
-* ~~maintain (*v.*) to continue to have something; to keep something at the same level~~
-* ~~offensive (*adj.*) unpleasant or insulting~~
-
-## reading skill
-* paragraph - a group of sentences about the same topic
-* topic sentence - main idea is usually given in the first sentence. this is called the topic sentence.
-* supporting details - the other sentences add details about the topic. such as examples, explanations, fatcs, definitions and reasons.
-
-
-# READING2 
-
-## vocabulary
-* ~~accomplishment (*n.*) something impressive that someone has achieved~~
-* ~~consider (*v.*) to have something as your opinion; to think about someone or somerhing in a particular way~~
-* ~~exaggerate (*v.*) to make something seem larger, better, or worse than it really is~~
-* ~~expect (*v.*) to think or believe that someone will do something or something will happen~~
-* ~~professional (*adj.*) doing something in a way that shows skill, training, and care~~
-* ~~punctual (*adj.*) doing something or happening at the right time; not late~~
-* ~~research (*n.*) a detailed and careful study of something to find out more about it~~
-* ~~responsible (*adj.*) behaving well and in a sensible way~~
-* ~~slang (*n.*) in formal words and expressions that are more common in spokßen language~~
-* ~~weakness (*n.*) a fault of strength, especially in a person's character~~
-
 ## Word forms
 | Noun           | Verb        | Adjective     | Adverb       |
 |----------------|-------------|---------------|--------------|
-| accomplishment |  accomplish | accomplished  | X            |
-| consideration  | consider    | considerable  | considerably |
-| confidence     | X           | confident     | confidently  |
-| demonstration  | demonstrate | demonstrative | x            |
-| impression     | impress     | impressive    | x            |
-| offense        | offend      | offenssive    | offensively  |
-| reponsibility  | X           | responsible   | responsibly  |
-| selection      | select      | selected      | selectly     |
+| accomplishment (업적) | accomplish (해내다)  | accomplished (재주가 많은)  | X            |
+| consideration (고려,배려)| consider (고려하다)   | **considerable (상당한)** | **considerably (상당히)** |
+| confidence (신뢰,자신감)    | X           | confident (자신감있는, 확신하는=sure)    | confidently (확실하게) |
+| demonstration (시위,설명)  | demonstrate (보여주다) | demonstrative (숨기지 않는) | x            |
+| impression (인상,감명)    | impress (깊은인상을주다)    | impressive (인상적인)    | x            |
+| offense (범죄,모욕)        | offend (기분상하게하다)      | offensive (모욕적인,불쾌한)   | offensively (비위거슬리게) |
+| responsibility (책임) | X           | responsible (책임지는)  | responsibly (책임감있게) |
+| selection (선택)     | select (선택하다)     | selected (선택된)     | selectly (신중하게 가려내어,선택되어)     |
 
 
 
@@ -62,17 +30,36 @@ tags:
 ## Real conditionals : present and future
 
 ### present real conditional
-The present real conditional is used to talk about general truth, habits, and things that happen again and again.
+일반적인 사실, 습관, 반복적으로 일어나는 일, 충고, 경고
+if 를 when 으로 변경해도 정확히 같은 뜻이다. 해석 또한 "만약.." 으로 해석하는 것 보다, "때...(when)"으로 해석하는 것이 더 자연스러움. 
 
-* grammar
-    * if clause : simple present
-    * result clause : use a modal like *may, might, would, could.*
-* example : if you **disagree** too much in your first conversation, the other person **may think** you are just too different.
+* form
+    * If clause : simple present, present progressive verb
+    * Main clause : simple present, modal(may,might,could,would), imperative
+
+* General truth
+> If the weather is cold and cloudy, I am happy
+* Habits
+> If I drive to work, I always listen to music.
+* Routines
+> If I wake up on time, I eat breakfast.
+* Warn
+> If you're travelling by plane, **don't bring** any water bottles or beverage.
+* Advice
+> If you go to San Francisco, you **should try** the clam chowder at Ferry Plaza.
+
+* (질문) If the weather is bad, we **couldn't play** 가 안되는 이유?
+    * (자답/추측) 헷갈리는 것이. "날씨가 좋지 않을 때, 축구를 하지 마라." 라고 될것 같아서. 하지만, could가 suggestion으로 쓰일 때는 긍정문에서 일 뿐이다. couldn't는 impossibility를 나타내는 것. 그럼 "날씨가 좋지 않을 때, 우리는 축구를 할리 없어." 가 되는데... 뭔가 이상한 것인가.. stack exchange에 물어 봄.
+    http://english.stackexchange.com/questions/354920/why-i-cannot-use-couldnt-in-this-sentence-if-weather-is-bad-we-couldnt-pl
+
 
 ### future real conditional
-The future real conditional is used to talk about what will happen under certain conditions.
+특정 조건에서 어떤일이 벌어질 것인지를 말할 때.
+if를 when으로 바꿀 경우 뜻이 달라진다. 
+> If I go to Vegas, I am going to have fun! (무계획)
+> When I go to Vegas, I am going to have fun! (갈 계획이 있음)
 
 * grammar
     * if clause : simple present
-    * result clause : *will* or *be going to*
-* example : If you **stay** honest and professional, you **will get** one step closer to the job you want. 
+    * Main clause : *will*, *be going to*, (유튜브에선 future modals such as may,might,and could이 가능하다고는 하는데..왜 인지 아직 모름.) 
+> If you **stay** honest and professional, you **will get** one step closer to the job you want. 

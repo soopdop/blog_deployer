@@ -18,21 +18,17 @@ tags:
 ### Using Present Perfect
 
 #### Unspecified time 
+* 과거의 불특정한 시점에 일어난 일. 특정 시점에 일어난 일은 simple past를 쓴다. 그리고 **this week과 같은 not finished time** 기준으로 생각해 보면, 인생이 끝나지 않았으로 present perfect를 쓰고, 그 것은 개인의 **경험**을 나타내는 것이 된다.
+    * Researchers **have discovered** similar traits in successful people.
+* 다음과 같은 부사, **already, ever, never, and yet** 
+    * She **has received** an award yet?
+    * ever : "at any time in your life". 인생에서의 아무때나.
+    * never : "not ever". 인생에서 아무때도 아닌.
+    * already : "벌써/이미". 긍정문/의문문. 의문문에서는 '그렇게빨리'를 내포함.
+    * yet : "벌써/이미, 아직". 항상 문장의 마지막에 나옴. 긍정문에서는 쓰이지 않음. 의문문에서 already와 같은 뜻.
+    * still : "여전히". 부정문에서 쓰임. 일어나야 할 일이 안일어나고 있다는 것을 내포함.
 
-1. Use the present perfect to describe an action or event that happened at an **unspecified time** in the past.
-> Researchers **have discovered** similar traits in successful people.
-        
-
-2. The adverbs *already, ever, never* and (not) yet can be used with the present perfect.
-> She **has received** an award yet?
-
-    + ever : "at any time in your life". 인생에서의 아무때나.
-    + never : "not ever". 인생에서 아무때도 아닌.
-    + already : "벌써/이미". 긍정문/의문문. 의문문에서는 '그렇게빨리'를 내포함.
-    + yet : "벌써/이미, 아직". 항상 문장의 마지막에 나옴. 긍정문에서는 쓰이지 않음. 의문문에서 already와 같은 뜻.
-    + still : "여전히". 부정문에서 쓰임. 일어나야 할 일이 안일어나고 있다는 것을 내포함.
-
-#### Continues to present 
+#### Continues to present
         
 1. Use the present perfect for actions or events that started in the past and **continue into the present**.
 > How long **has** she **been** a successful businessperson?

@@ -9,58 +9,55 @@ tags:
 - reading
 ---
 
-# Vocabulrary
-* ~~logo~~ 
-* ~~sponsor~~
+# Vocabulary
 * assured
     * brand-new business cannot be **assured** that it will succeed right away. 
-* ~~profit~~
-* ~~invest~~
-* ~~market~~
-* ~~stability~~
 * dependable
-    * It is wise to invest in **dependable** companies becuase they tend to manage their money well.
-* ~~expansion~~
-* ~~image~~
+    * It is wise to invest in **dependable** companies because they tend to manage their money well.
 * demanding
     * Ice skating is a **demanding** sport that requires a lot of time, practice, and hard work.
-* ~~trend~~
-* ~~due to~~
-* ~~motion~~
-* ~~aggressively~~
-* ~~exception~~
 * dedication
     * Competitive athletes must have **dedication** because it takes a lot of time and hard work to be successful in sports.  
-* ~~sign~~
-* ~~recover~~
 
-# My Vocabulrary
+# My Vocabulary
 * tens of millions of dollars
-    * Race car can cost **tens of millions of dollars**, and race teams cand spend up yo $300 million a year.
+    * 수 천만 달러.
+    * millions of dollars - 수 백만 달러.
 * prestigious
+    * 일류의
     * Imagine being part of one of the most **prestigious** and glamorous.
 * glamorous
+    * 화려한
     * Imagine being part of one of the most prestigious and **glamorous**.
 * stuck
+    * 붙이다 - stick의 과거 
     * Cars race around the track with company logos **stuck** to the doors, hood, and trunk, and people notice.
-* push
+* push 
+    * 새로운 사상, 상품등을 강요하다.
     * They can **push** their brand globally.
 * mentality
+    * 사고 방식
     * Thanks to a strong business **mentality**, Fomula 1 racing has become a profitable sport for corporations to invest in.
 * gymnast
+    * 체조선수
     * At 10, Courtney Thompson was a top-ranked **gymnast** in New Hampshire.
-* have one's mind set on
+* have one's mind(heart) set on
+    * ~하기로 마음을 굳히다.
     * She had been doing flips since she was one and **had her heart on competing** in the Olympics.
 * cartilage
+    * 연골
     * Doctor discovered that Courtney's constant workouts had caused the **cartilage**, or connective tissue.
 * rehabilitation
+    * 재활치료
     * She had surgery on both arms and went through months of painful **rehabilitation**.
 * tendon
+    * 힘줄.
     * The rotator cuff is a group of four muscles and the **tendons** that connect them to bones in the shoulder.
 * Afterward
+    * 
     * **Afterward**, he couldn't pitch for two months and needed five months of physical therapy.
 * therapy
-    * **Afterward**, he couldn't pitch for two months and needed five months of physical therapy.
+
 * in part because
     * Experts say injuries such as Danny's are on the rise, **in part because** more and more kids are leaving casual sports for organized team competitions that require hours of practice and game time.
 * competition

@@ -26,7 +26,7 @@ tags:
 * produce
 * urban
 * traditional
-* threaten
+* **threaten** - 협박하다, 위협하다.
 * polluted
 * restore
 * quality of life
@@ -94,7 +94,6 @@ tags:
 7. They once did the same thing themselves.
     * (질문) themselves의 의미는?
     * (자답) they에 대한 강조의 의미로 '바로 자기 자신들이..' 라는 뜻으로, 없애도 무방할 것 같음.
-8. Although 와 though의 차이
 9. since와 ever since의 차이
 10. too와 either의 차이
 11. What novelty there is some of the proccesses used in the past one step further.

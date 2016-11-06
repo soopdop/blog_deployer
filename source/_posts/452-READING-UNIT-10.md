@@ -31,14 +31,14 @@ tags:
 # Questions for READING 1
 * although와 though의 차이?
     * although 와 though가 접속사 일 때는 똑같다. 구어체 에서는 though를 쓴다.
-    > Though it is very cold outside, he wants to go out.
-    > Although it is very cold outside, he wants to go out.
+    > **Though** it is very cold outside, he wants to go out.
+    > **Although** it is very cold outside, he wants to go out.
     * **although는 부사가 될수 없다.** 
     > She is not very attractive. She is smart, though. (o)
     > **She is not very attractive. She is smart, although.(x)**
-    * Even thuogh는 though의 강조형으로 쓴다.
-    > Even though they had studied very hard, they didn't pass the exam.
-    
+    * Even though는 though의 강조형으로 쓴다.
+    > **Even though** they had studied very hard, they didn't pass the exam.
+
 * There is **no point in paying** to send a message if it breaks so many rules that it is not intelligible.
 * There are several distinctive features of the way texts are written that combine to give the impression of novelty
 * What novelty there is in texting lies chiefly in the way it takes some of these processes used in the past one step further.

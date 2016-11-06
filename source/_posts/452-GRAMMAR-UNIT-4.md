@@ -73,7 +73,7 @@ Use the past perfect progressive for an action or situation that continued up to
 > My eyes were sore because I 
 
 #### b. Habitual verb
-With some varbs such as live, play, teach, wear, and work, use either the past perfect or past perfect progressive. The meaning is similar.
+With some verbs such as live, play, teach, wear, and work, use either the past perfect or past perfect progressive. The meaning is similar.
 >
 
 # My Vocabulary

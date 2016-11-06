@@ -1,5 +1,5 @@
 layout: blog
-title: '[ETC] 5형식'
+title: '[ETC] 5형식 정리'
 date: 2016-10-16 01:04:46
 categories: 
 - English study
@@ -15,26 +15,28 @@ tags:
 
 ## 2형식과의 차이
 * She is kind. (2형식. 보어가 주어를 설명함.)
-* She makes me happy. (5형식. 보어가 목적어를 설명함.)
+* She makes me **happy**. (5형식. 보어가 목적어를 설명함.)
 
-## Make (~을 ~하게 하다) 역할을 하는 동사.
+## 5형식 동사
+동사마다 명사가 필요한 경우, 형용사가 필요한 경우가 다른 것으로 보임.
 * make
 > My father made me a teacher.
 > My father made me happy.
 * find
-> I found him guilty.
+> I found him **guilty.**
 * elect
-> I want you drive a car.
+> We selected him **chairperson.**
 * want
-> I want you *to* drive my car.
+> I want you **to drive** my car.
 * allow
-> He allowed me *to* use his toom.
+> He allowed me **to use** his toom.
 * expect
-> I expect you to study until 5 O'clock.
+> I expect you **to study** until 5 O'clock.
 * warn
-> I warn him not to go there.
+> I warn him not **to go** there.
 
 ## 감각/지각 (원형부정사)
+원형부정사를 사용함.
 * see
 > I saw him *walk* across the bridge.
 * feel
@@ -43,6 +45,7 @@ tags:
 > I heard him *speak*.
 
 ## 사역동사 (원형부정사) 
+원형부정사를 사용함.
 * have
 > I had him *cut* my hair.
 * make

@@ -13,48 +13,32 @@ tags:
 
 * mental 
     * relating to the mind
-    > Running a marathon requires both physical strength and strong **mental** qualities like confidence and determination. 
+    * Running a marathon requires both physical strength and strong **mental** qualities like confidence and determination. 
 * pursuits
     * activities
-    > During the summer months, some of her athletic **pursuits** are running, biking, and mountain climbing.
+    * During the summer months, some of her athletic **pursuits** are running, biking, and mountain climbing.
 * tolerance 
     * ability to accept something difficult or unpleasant
-    > In order to really enjoy skiing, you need to have a very high **tolerance** for the cold.
+    * In order to really enjoy skiing, you need to have a very high **tolerance** for the cold.
 * notable
     * important and well-known
-    > Joe Simpson is notable for his mountain climbing as well as his writing. 
-* challenge 
-    * something difficult and exciting
-    > He's an experienced climber, and now he believes he's ready for the **challenge** of climbing Mount Everest.
-* vivid 
-    * producing a strong, clear picture in your mind
-    > My memory of reaching the top of the mountain is so **vivid** that I feel as if I'm still there.
+    * Joe Simpson is notable for his mountain climbing as well as his writing. 
 * perceive 
     * think of
-    > People **perceive** farming as a safe job, but it is one of the riskiest jobs a person can have.
+    * People **perceive** farming as a safe job, but it is one of the riskiest jobs a person can have.
 * precaution  
     * things you do to avoid danger
-    > If you go rock climbing, you should take **precautions**, such as wearing a helmet and the right kind of shoes.
+    * If you go rock climbing, you should take **precautions**, such as wearing a helmet and the right kind of shoes.
 * aspect 
     * part
-    > One aspect of extreme sports that many people cannot overcome is the risk.
+    * One aspect of extreme sports that many people cannot overcome is the risk.
 * trait 
     * particular quality
-    > One **trait** that extreme sports athletes share is the love of excitement in their sport.
-* bravely 
-    * *(adv.)* showing readiness to do dangerous or difficult things without showing fear 
-* conquer 
-    * *(v.)* to overcome something
+    * One **trait** that extreme sports athletes share is the love of excitement in their sport.
 * determined 
     * *(adj.)* firmly decided to succeed in doing something, even if it is difficult
 * distinctive 
     * *(adj.)* clearly different from others and therefore easy to recognize
-* earn 
-    * *(v.)* to get something that you deserve
-* goal 
-    * *(n.)* a purpose or aim
-* role 
-    * *(n.)* a person's part in something such as a play, movie, or life
 * significant 
     * *(adj.)* important or large enough to be noticed
 * ultimate 

@@ -5,7 +5,6 @@ categories:
 - Programming
 tags:
 - java
-- impatient
 ---
 
 <iframe src="https://docs.google.com/presentation/d/1dhICi__OV6PC0DB7TNXCks7OVka9m6ByKZISqwZZHos/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

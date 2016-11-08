@@ -53,3 +53,9 @@ tags:
   <source type="audio/mp3" src="http://docs.google.com/uc?export=open&id=0B9gDC0WDShzmVTlRaW4wYnVMY0k"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
+
+## Audio (0.8 speed)
+<audio controls="controls">
+  <source type="audio/mp3" src="http://docs.google.com/uc?export=open&id=0B9gDC0WDShzmcjdIeFBzZDR3UWc"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>

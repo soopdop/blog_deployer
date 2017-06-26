@@ -12,7 +12,7 @@ tags:
 1. 너 ~하지 않을까?
     * Won't you be ~?
 1. 말씀 많이 들었습니다.
-    * I've hear so much about you.
+    * I've heard so much about you.
 2. 만나서 영광입니다.
     * It's a great honor to meet you.
 3. 대단한 ~

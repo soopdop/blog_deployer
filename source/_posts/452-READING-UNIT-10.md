@@ -1,12 +1,12 @@
 layout: blog
-title: '[452][READING] UNIT 10'
+title: '[400][READING] UNIT 10'
 date: 2016-10-18 01:10:58
 categories: 
 - English study
 tags:
 - English study
-- 452
-- reading and writing
+- 400
+- reading
 ---
 
 # Vocabulary

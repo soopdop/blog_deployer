@@ -1,12 +1,12 @@
 ---
-title: '[452][READING] UNIT 7'
+title: '[400][READING] UNIT 7'
 date: 2016-10-04 17:32:38
 categories: 
 - English study
 tags:
 - English study
-- 452
-- reading and writing
+- 400
+- reading
 ---
 
 # Vocabulary

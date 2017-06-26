@@ -1,11 +1,11 @@
 layout: blog
-title: '[452][WRITING] Write a Opinion Paragraph'
+title: '[400][WRITING] Write a Opinion Paragraph'
 date: 2016-10-24 19:13:26
 categories: 
 - English study
 tags:
 - English study
-- 452
+- 400
 - writing
 ---
 

@@ -1,12 +1,12 @@
 layout: blog
-title: '[452][OSD] UNIT 8'
+title: '[400][OSD] UNIT 8'
 date: 2016-10-19 21:47:57
 categories: 
 - English study
 tags:
 - English study
-- 452
-- oral skills development
+- 400
+- osd
 ---
 
 # Vocabulary

@@ -35,7 +35,7 @@ tags:
 3. [Narration] The story of my life is not for the faint of heart. 
 4. [Narration] If somebody said it was a happy little tale, if somebody told you I was just your average ordinary guy, not a care in the world, somebody lied. 
 5. [Narration] But let me assure you. 
-5. [Narration] This, like any worth telling, is all about a girl. That girl. 
+5. [Narration] This, like any story worth telling, is all about a girl. That girl. 
 6. [Narration] The girl next door: Mary Jane Watson, the woman I've loved since before I even liked girls. 
 7. [Narration] I'd like to tell you that's me next to her. Aw, heck, I'd even take him.
 2. [Peter] Hey! Stop the bus!

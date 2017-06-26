@@ -1,10 +1,10 @@
 layout: blog
-title: '[562W][READING] UNIT 4'
+title: '[500W][READING] UNIT 4'
 date: 2016-11-03 00:38:00
 categories: 
 - English study
 tags:
-- 562W
+- 500W
 - English study
 - reading
 ---

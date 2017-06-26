@@ -1,12 +1,12 @@
 layout: blog
-title: '[452][READING] UNIT 8'
+title: '[400][READING] UNIT 8'
 date: 2016-10-13 08:29:25
 categories: 
 - English study
 tags:
 - English study
-- 452
-- reading and writing
+- 400
+- reading
 ---
 
 

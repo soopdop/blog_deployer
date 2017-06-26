@@ -1,11 +1,11 @@
 layout: blog
-title: '[452][WRITING] Write a "how to" paragraph'
+title: '[400][WRITING] Write a "how to" paragraph'
 date: 2016-10-17 15:51:15
 categories: 
 - English study
 tags:
 - English study
-- 452
+- 400
 - writing
 ---
   
@@ -19,9 +19,9 @@ tags:
   
 # My paragraph
 
-## Title : How to Make Instant Noodle
+## Title : How to Make Instant Noodles
 
-Making instant ~~an~~ noodle**s** is so easy. If you follow ~~**some sequence**~~ **these steps(or instructions)**, you will make instant noodle**s** ~~**very instantly**~~ quickly. First of all, prepare your cooking tools and ~~materials~~ingredients for making instant noodles**s**. First fo all, prepare the cooking tools and ~~meterials~~ ingredients for making instant noodles. We just need a pot ~~**as a tool**~~, but ~~**do not select too small pot**~~ **choose a lager pot** to prevent ~~to~~the overflow of water and it's contents. Also, don't ~~**leave**~~ go away from the water until it boils. Second, put the noodle**s** and the powder into the pot when watr starts boiling. If ~~**water is lack**~~ there is not enough water, don't ~~**put**~~ **use** the all of the powder~~**, It**~~ **as this** makes **the** noodle**s** salty. Third, when you want ~~**to eat more delicious one**~~ **to make the noodles have more flavor** add your favorite ~~**materials**~~ ingredients such as eggs, onions, welsh onion, mushrooms, meats, etc. Don't ~~**forget exceeding the time**~~ **leave the noodles for more than** 3 to 5 minutes, because ~~**not to make noodle**~~ **leaving the noodles too long will make them** fat. Finally, just enjoy it, but don't ~~**think that you can**~~ eat it fast if you don't want to burn your mouth and tongue. As you can see, Making instant noodle**s** is ~~**too**~~ easy if you know what you have to do**.** ~~**for it**~~.
+Making instant ~~an~~ noodle**s** is so easy. If you follow ~~**some sequence**~~ **these steps(or instructions)**, you will make instant noodle**s** ~~**very instantly**~~ quickly. First of all, prepare your cooking tools and ~~materials~~ingredients for making instant noodles**s**. We just need a pot ~~**as a tool**~~, but ~~**do not select too small pot**~~ **choose a lager pot** to prevent ~~to~~the overflow of water and it's contents. Also, don't ~~**leave**~~ go away from the water until it boils. Second, put the noodle**s** and the powder into the pot when watr starts boiling. If ~~**water is lack**~~ there is not enough water, don't ~~**put**~~ **use** the all of the powder~~**, It**~~ **as this** makes **the** noodle**s** salty. Third, when you want ~~**to eat more delicious one**~~ **to make the noodles have more flavor** add your favorite ~~**materials**~~ ingredients such as eggs, onions, welsh onion, mushrooms, meats, etc. Don't ~~**forget exceeding the time**~~ **leave the noodles for more than** 3 to 5 minutes, because ~~**not to make noodle**~~ **leaving the noodles too long will make them** fat. Finally, just enjoy it, but don't ~~**think that you can**~~ eat it fast if you don't want to burn your mouth and tongue. As you can see, Making instant noodle**s** is ~~**too**~~ easy if you know what you have to do**.** ~~**for it**~~.
 
 # Questions
 ## To부정사의 주어 사용

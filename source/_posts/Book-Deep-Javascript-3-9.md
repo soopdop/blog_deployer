@@ -1,5 +1,5 @@
 ---
-title: '[Book] 속 깊은 Javascript 3/9'
+title: '[Book Summary] 속 깊은 Javascript 3/9'
 date: 2017-06-27 15:57:44
 categories:
 - Book Summary
@@ -7,11 +7,13 @@ tags:
 - javascript
 ---
 
+{% asset_img cover.jpg%} 
+
 # Chapter 3. 자바 스크립트의 변수
 
 ## 3.1. 자바스크립트의 기본 형과 typeof
 
-### (1) javascript의 기본형
+### javascript의 기본형
 객체가 아닌 기본적인 키워드로 활용할 수 있는 기본형. 
 - number
 - string
@@ -20,7 +22,7 @@ tags:
 - null
 - symbol
 
-### (2) typeof의 결과 목록
+### typeof의 결과 목록
 typeof는 문자열을 반환한다.
 - "undefined"
 - "boolean"
@@ -30,7 +32,7 @@ typeof는 문자열을 반환한다.
 - "function"
 - "symbol"
 
-### (2) typeof의 결과 중 특이 한 것
+### typeof의 결과 중 특이 한 것
 **"typeof null은 object이다."** 따라서, typeof를 이용해서 object인지 체크한 뒤 어떤 동작을 추가하려면, null 체크를 따로 먼저 해주는 것이 좋다.
 {% codeblock "object vs function" lang:javascript%}
 if(aaa !== null && typeof aaa === "object") {
@@ -38,10 +40,10 @@ if(aaa !== null && typeof aaa === "object") {
 }
 {% endcodeblock %}
 
-## 3.2. new String("")과 ""과 String("")의 차이
+## 3.2. new String(""), String(""), 그리고 "" 
 Javascript의 문자열은 기본형(primitive)과 객체형 두가지 형태로 존재한다. 
 
-### (1) new String()은 래퍼객체이고, ""과 String("")은 기본형이다.
+### "new String()은 래퍼객체이고, ""과 String("")은 기본형이다."
 
 String("")은 표준에 정의된 일련의 과정을 통해서 결국 기본형을 리턴한다. 
 
@@ -52,7 +54,7 @@ console.log(typeof "abc"); // string
 console.log("abc" === String("abc")); // true
 {% endcodeblock %}
 
-### (2) 기본형은 레퍼객체나 Object의 인스턴스가 아니다.
+### "기본형은 레퍼객체나 Object의 인스턴스가 아니다."
 
 {% codeblock "instanceof primitive type" lang:javascript%}
 console.log(123 instanceof Number); // false
@@ -66,7 +68,7 @@ console.log(new String("123") instanceof Object); // true
 {% endcodeblock %}
 
 
-### (4) 기본형에는 속성을 추가할 수 없다.
+### "기본형에는 속성을 추가할 수 없다."
 정확히 말하자면, 기본형의 프로퍼티 접근시 내부적으로 new String("")으로 레퍼객체를 만들었다가 바로 사라지기 때문인데, 이 책에서는 그러한 설명이 없다. 설명은 이곳 : [래퍼 객체](http://noritersand.tistory.com/536)
 
 {% codeblock "래퍼 객체" lang:javascript%}
@@ -76,7 +78,7 @@ test.abc = "abc"; // new String(test).abc = "abc"와 같다.
 console.log(test.abc) // undefined 있을리 없음.
 {% endcodeblock %}
 
-### (5) String.prototype에 함수를 추가하면 기본형에서도 쓸 수 있다.
+### "String.prototype에 함수를 추가하면 기본형에서도 그 함수를 쓸 수 있다."
 이 또한 프로퍼티 접근시 래퍼 객체를 생성해서 호출하기 때문에 가능한 것이다.
 
 {% codeblock "String.prototype에 함수 추가" lang:javascript%}
@@ -168,20 +170,18 @@ console.log(bar); // error!
 
 ## 3.7. var 키워드의 효율적인 사용
 JSLint는 항상 다음을 권하는 메세지를 출력한다. 
-{% blockquote %}
-    모든 변수는 함수의 위쪽에 묶어서 선언한다다.
-{% endblockquote %}
+> "모든 변수는 함수의 위쪽에 묶어서 선언해야 한다."
 
 이렇게 하는 것에는 몇가지 이유가 있다.
 
-### (1) 초기화 실수의 최소화
+### "초기화 실수의 최소화하기 위해서"
 이 책에 나오는 이유는 그다지 명확하지가 않다. 내 생각은 다음과 같다. "선언되지 않은 변수"와 "초기화 되지 않은 변수"는 모두 ```typeof```의 결과로 ```undefined```를 리턴한다. 우리는 때로 이것을 구분해야할 필요가 있다. 소스가 길어지면 "어딘가"에 선언되어 있을지도 모르는 변수를 재선언을 하는 등의 문제를 만들 수 있기 때문이다.
 
-### (2) 변수 관리 차원
+### "변수 관리를 잘 하기 위해서"
 책보다 설명을 잘 할 수 있을 듯 하다. Javascript는 nested 함수를 지원하는데, 변수를 var 없이 할당하면 글로벌 변수가 만들어 지거나 이전 스코프의 변수를 변경하게 된다. 게다가 hoisting까지 지원하기 때문에 변수를 잘 관리 하지 않으면 버그를 만들어 내기 매우 쉬운 환경이다. 따라서 모든 함수의 도입부에 로컬 변수를 잘 선언해 이러한 혼란을 막는데 도움을 줄 수 있다.
 
-### (3) Minifying
-minifying할 때 더 잘 줄일 수 있다 한다.
+### "Minifying이 잘 되도록"
+minifying할 때 소스의 부피를 더 줄일 수 있다 한다.
 
 ## 3.8. 글로벌 변수 최소화하기
 다음과 같은 두가지 방법으로 글로벌 변수를 회피할 수 있다.

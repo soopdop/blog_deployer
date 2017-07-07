@@ -19,6 +19,6 @@ https://getfirebug.com/firebug-lite-debug.js
 
 ## What is the  Firebug
 
-It's a debugging tool for Firefox environment, but I think it's not commonly used these days. This is because **Chrome develpoer tool** is even better. However, it'ss still being developed. (http://getfirebug.com/)
+This is a debugging tool for Firefox environment, but I think it's not commonly used these days. This is because **Chrome develpoer tool** is even better. However, Firebug is still being developed. (http://getfirebug.com/)
 
 

@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: '[Book Summary] Deep Javascript 5/9'
+title: '[Book Summary] 속깊은 Javascript 5/9'
 date: 2017-06-29 18:34:55
 categories:
 - Book Summary
@@ -10,12 +10,12 @@ tags:
 
 {% asset_img cover.jpg%} 
 
-
 # Chapter 5. 디자인 패턴 실용
 이 책에서는 자주 볼 수있는 유용한 패턴을 몇가지 소개하고 있다.
 
 ## 5.2. 모듈 패턴
-소스를 모듈 단위로 관리하기 위해서 쓰이는 패턴이다. 대표적인 예로 jQuery의 ```$```를 들 수 있다.
+
+> 소스를 모듈 단위로 관리하기 위해서 쓰이는 패턴이다. 대표적인 예로 jQuery의 ```$```를 들 수 있다.
 
 {%codeblock "기본 틀" lang:javascript%}
 (function (window) {
@@ -41,17 +41,20 @@ var myLibrary = (function () {
 
 ## 5.2. 이벤트 델리게이션 패턴
 
-### 이벤트 버블링과 캡쳐링
+이 책에서는 정의를 제대로 내리지 않고 유용한 상황을 먼저 설명하고 있다. 아래는 내가 정의한 이벤트 델리게이션이다.
 
+> "이벤트 델리게이션 패턴이란 다수의 element에 각각에 event handler를 할당하는 것이 아니라, 그 것을 감싸는 부모 element에 하나의 event handler만 할당하여 처리하는 방식이다. 이 때, 조건문을 통해서 각 element의 이벤트를 처리한다." 
+
+### (조사) 이벤트 버블링과 캡쳐링
 이벤트 버블링과 캡쳐링은 이벤트가 전파되는 방향을 개발자가 설정하는 것이 아니다. 이미 브라우저는 특정 순서로 이벤트를 전파하고 있다. 이 때, 개발자가 부모와 자식 element에 각각 이벤트 핸들러를 등록해 두었을 경우, 브라우저가 전파하는 순서대로 그 이벤트 핸들러가 호출된다. 같은 element에 ```addEventListener(event, func1, true)```, ```addEventListener(event, func2, false)```로 capturing과 bubbling되는 이벤트를 처리할 수 있는 것은 w3c의 표준에 의해서 브라우저가 이미 두개의 흐름을 만들어 두었기 때문이다. 따라서 위와 같이 하나의 element에 capturing과 bubbling 이벤트 핸들러를 등록해 놓을 수 있고, 그렇이 하면 capturing으로 설정한 이벤트 핸들러인 func1이 먼저 호출된다. 그 이유는 다음에서 설명된다. 
 
-#### 왜 버블링인가?
+#### (조사) 왜 버블링인가?
 책에서는 자식 element로부터 부모 element로 이벤트가 전파되는 것을 버블링이라고 설명한다. 이 설명은 그냥 외우라는 것 그 이상 그 이하도 아니다. 한참을 찾은 끝에 [이 곳](https://www.kirupa.com/html5/event_capturing_bubbling_javascript.htm)에서 버블이라고 부르는 이유를 깨달을 수 있었다. 가장 헷갈렸던 부분은 bubble은 위로 올라가는데, 레이어의 순서를 기준으로 볼때 자식은 위쪽에 있기에 반대라고 생각했다. 하지만, 그 것 보다는 Tree를 생각해야 한다. HTML과 BODY를 최상위에 놓고 아래로 자식 element들을 트리 형태로 나열 한 그림을 놓고 볼때, 이벤트 버블링이 무엇인지 직관적으로 이해할 수 있다. 그 트리에서 가장 자식이 되는 element부터 최상위 부모까지 전달되며 버블처럼 올라가는 모습이 이벤트 버블링이다.   
 
-#### 왜 캡쳐링인가?
+#### (조사) 왜 캡쳐링인가?
 열심히 검색해 봤으나 딱히 훌륭한 이유를 찾지는 못했다. 다만, 이벤트가 target으로부터 시작되는 버블링과는 달리, 어딘가로부터 시작된 이벤트가 여러 element를 거쳐 최종적으로 이벤트가 target으로 오게 되는 것으로 이해해 볼 수 있다. 즉 이벤트가 발생한 target element로부터 생겨난 버블이 뽀글뽀글 올라가는 것과는 정반대로, 최종적으로 target element로 가는 event를 그 조상(window,html,body)들이 가로채(capturing) 수 있다고 이해하면 될 것같다.  
 
-#### 이벤트 캡처링과 버블링은 어떻게 동작하는가?
+#### (조사) 이벤트 캡처링과 버블링은 어떻게 동작하는가?
 넷스케이프와 마이크로소프트가 각각 capturing과 bubbling방식 만을 지원했다. 하지만 W3C 표준에서는 두가지를 다 지원하도록 만들었다. 첫번째 단계에서는 capturing방식으로 이벤트를 전파하고, target에 도착한 뒤, bubbling방식으로 다시 이벤트를 전파한다. 
 
 {% asset_img eventflow.png "Event flow" %}
@@ -80,15 +83,10 @@ var myLibrary = (function () {
 </script>
 {%endcodeblock%}
 
-#### 이벤트 델리게이션 패턴이란?
-이 책에서는 정의를 제대로 내리지 않고 유용한 상황을 먼저 설명하고 있다. 아래는 내가 정의한 이벤트 델리게이션이다.
-
-> "이벤트 델리게이션 패턴이란 다수의 element에 각각에 event handler를 할당하는 것이 아니라, 그 것을 감싸는 부모 element에 하나의 event handler만 할당하여 처리하는 방식이다. 이 때, 조건문을 통해서 각 element의 이벤트를 처리한다." 
-
-#### 이벤트 델리게이션 예
+#### 이벤트 델리게이션 예제
 {% jsfiddle sa0e8L8q js,html,result dark %}
 
-#### 그 밖에 이벤트 처리를 위해서 알아야 할 것
+#### 그 밖에 이벤트 처리를 위해서 알아야 할 함수
 ##### e.stopPropagation()
 위 예제에서 stopPropagation 함수는 그다지 쓸모가 없다. 다음과 같은 경우에 사용한다. 부모 element인 ```controlPanel```에 클릭이나 드래그를 할 수 있도록 만든다고 가정한다. 이 때, ```controlPanel```에 이벤트 핸들러를 할당한다면, 그 자식인 play 버튼을 눌러도 이벤트 버블링에 의해서 부모 element인 ```controlPanel```의 핸들러가 호출될 것이다. 이러한 상황을 막기 위해서 ```stopPropagation()```을  사용한다.
  
@@ -96,7 +94,6 @@ var myLibrary = (function () {
 만약 하나의 target element에 두개 이상의 이벤트 핸들러가 할당되어 있을 경우, 할당한 순서대로 호출된다. 그런데 ```stopPropagation()```으로는 하위나 상위 element로의 이벤트 전달은 막을 수 있어도, 같은 엘리멘트에 등록되어있는 이벤트 핸들러의 호출은 막지 못한다. 이 때, 사용하는 것이  ```stopImmediatePropagation()```이다.
 
 {% jsfiddle 8jg05urm js,html,result dark %}
-
 
 ##### e.preventDefault()
 기본적으로 처리하는 이벤트를 막는다. 예를 들면, ```<a>```의 경우 클릭하면 특정 url로 이동하게 되어있다. ```<a>```가 다른 동작을 하도록 만들려면  ```preventDefault()``` 를 사용해야 한다.

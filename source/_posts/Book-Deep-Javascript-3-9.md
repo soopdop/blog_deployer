@@ -1,5 +1,6 @@
 ---
-title: '[Book Summary] 속 깊은 Javascript 3/9'
+title: '[Book Summary] 속
+깊은 Javascript 3/9'
 date: 2017-06-27 15:57:44
 categories:
 - Book Summary

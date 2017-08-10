@@ -2,9 +2,9 @@
 title: '[400][READING] UNIT 7'
 date: 2016-10-04 17:32:38
 categories: 
-- English study
+- English
 tags:
-- English study
+- English
 - 400
 - reading
 ---

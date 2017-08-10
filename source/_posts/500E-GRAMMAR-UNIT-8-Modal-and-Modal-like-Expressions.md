@@ -2,10 +2,10 @@ layout: blog
 title: '[500E][GRAMMAR] UNIT 8 - Modal and Modal-like Expressions'
 date: 2017-01-16 17:42:52
 categories: 
-- English study
+- English
 tags:
 - 500E
-- English study
+- English
 - grammar
 ---
 

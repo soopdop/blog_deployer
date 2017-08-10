@@ -2,10 +2,10 @@
 title: '[400][GRAMMAR] UNIT 1 - Simple present and Present progressive'
 date: 2016-09-22 09:59:10
 categories: 
-- English study
+- English
 tags:
 - 400
-- English study
+- English
 - grammar
 ---
 

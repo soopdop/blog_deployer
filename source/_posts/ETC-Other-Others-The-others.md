@@ -2,9 +2,9 @@ layout: blog
 title: '[ETC] Other/Others/The others'
 date: 2016-10-23 23:52:13
 categories: 
-- English study
+- English
 tags:
-- English study
+- English
 - etc
 ---
 

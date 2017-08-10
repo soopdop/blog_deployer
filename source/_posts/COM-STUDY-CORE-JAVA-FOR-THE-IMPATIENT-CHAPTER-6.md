@@ -2,7 +2,7 @@
 title: "[스터디] CORE JAVA FOR THE IMPATIENT CHAPTER 6"
 date: 2016-07-20 23:11:11
 categories:
-- Programming
+- programming
 tags:
 - java
 ---

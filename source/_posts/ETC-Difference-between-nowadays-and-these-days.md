@@ -2,9 +2,9 @@ layout: blog
 title: '[ETC] nowadays, these days, today의 차이'
 date: 2016-11-23 16:21:41
 categories: 
-- English study
+- English
 tags:
-- English study
+- English
 - etc
 ---
 

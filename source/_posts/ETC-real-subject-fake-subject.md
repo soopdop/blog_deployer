@@ -2,9 +2,9 @@ layout: blog
 title: '[ETC] 가주어/진주어'
 date: 2016-11-03 00:22:23
 categories: 
-- English study
+- English
 tags:
-- English study
+- English
 - etc
 ---
 

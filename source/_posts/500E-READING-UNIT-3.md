@@ -2,10 +2,10 @@ layout: blog
 title: '[500E][READING] UNIT 3'
 date: 2017-02-02 00:29:20
 categories: 
-- English study
+- English
 tags:
 - 500E
-- English study
+- English
 - reading
 ---
 

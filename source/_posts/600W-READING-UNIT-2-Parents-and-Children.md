@@ -2,10 +2,10 @@ layout: blog
 title: '[600W][READING] UNIT 2 - Parents and Children'
 date: 2017-03-07 21:24:33
 categories: 
-- English study
+- English
 tags:
 - 600W
-- English study
+- English
 - Reading
 ---
 

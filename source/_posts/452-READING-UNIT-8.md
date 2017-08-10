@@ -2,9 +2,9 @@ layout: blog
 title: '[400][READING] UNIT 8'
 date: 2016-10-13 08:29:25
 categories: 
-- English study
+- English
 tags:
-- English study
+- English
 - 400
 - reading
 ---

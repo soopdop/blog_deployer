@@ -2,10 +2,10 @@ layout: blog
 title: '[600W][GRAMMAR] Clause Reduction'
 date: 2017-04-02 18:25:45
 categories: 
-- English study
+- English
 tags:
 - 600W
-- English study
+- English
 - Grammar
 ---
 

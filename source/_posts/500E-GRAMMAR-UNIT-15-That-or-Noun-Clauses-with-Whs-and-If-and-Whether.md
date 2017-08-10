@@ -2,10 +2,10 @@ layout: blog
 title: '[500E][GRAMMAR] UNIT 15 ~ 16 - That clauses / Noun clauses with Wh- and If/Whether'
 date: 2017-02-20 17:44:52
 categories: 
-- English study
+- English
 tags:
 - 500E
-- English study
+- English
 - grammar
 ---
 

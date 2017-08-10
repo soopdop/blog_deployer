@@ -2,9 +2,9 @@
 title: '[400][OSD] UNIT 6'
 date: 2016-10-04 12:15:59
 categories: 
-- English study
+- English
 tags:
-- English study
+- English
 - 400
 - osd
 ---

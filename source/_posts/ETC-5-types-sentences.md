@@ -2,9 +2,9 @@ layout: blog
 title: '[ETC] 5형식 정리'
 date: 2016-10-16 01:04:46
 categories: 
-- English study
+- English
 tags:
-- English study
+- English
 - etc
 ---
 

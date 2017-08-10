@@ -2,10 +2,10 @@ layout: blog
 title: '[500W][READING] UNIT 4'
 date: 2016-11-03 00:38:00
 categories: 
-- English study
+- English
 tags:
 - 500W
-- English study
+- English
 - reading
 ---
 

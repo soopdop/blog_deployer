@@ -2,10 +2,10 @@ layout: blog
 title: '[500W][GRAMMAR] UNIT 27 - Adverb Clauses and Phrases'
 date: 2016-12-17 15:25:46
 categories: 
-- English study
+- English
 tags:
 - 500W
-- English study
+- English
 - grammar
 ---
 

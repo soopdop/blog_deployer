@@ -2,9 +2,9 @@ layout: blog
 title: '[400][OSD] UNIT 8'
 date: 2016-10-19 21:47:57
 categories: 
-- English study
+- English
 tags:
-- English study
+- English
 - 400
 - osd
 ---

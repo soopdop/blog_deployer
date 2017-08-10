@@ -2,9 +2,9 @@ layout: blog
 title: '[400][WRITING] Write a "how to" paragraph'
 date: 2016-10-17 15:51:15
 categories: 
-- English study
+- English
 tags:
-- English study
+- English
 - 400
 - writing
 ---

@@ -2,10 +2,10 @@ layout: blog
 title: '[600W][WRITING] Prepositions'
 date: 2017-03-05 18:32:33
 categories: 
-- English study
+- English
 tags:
 - 600W
-- English study
+- English
 - writing
 ---
 

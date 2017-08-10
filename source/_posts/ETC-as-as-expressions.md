@@ -2,9 +2,9 @@ layout: blog
 title: '[ETC] as~as expressions'
 date: 2016-11-03 23:12:24
 categories: 
-- English study
+- English
 tags:
-- English study
+- English
 - etc
 ---
 

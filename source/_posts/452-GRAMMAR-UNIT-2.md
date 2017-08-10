@@ -2,10 +2,10 @@
 title: '[400][GRAMMAR] UNIT 2 - Simple Past and Past Progressive'
 date: 2016-09-22 09:55:15
 categories: 
-- English study
+- English
 tags:
 - 400
-- English study
+- English
 - grammar
 ---
 

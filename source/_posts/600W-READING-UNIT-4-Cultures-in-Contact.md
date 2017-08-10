@@ -2,10 +2,10 @@ layout: blog
 title: '[600W][READING] UNIT 4 - Cultures in Contact'
 date: 2017-03-23 16:34:36
 categories: 
-- English study
+- English
 tags:
 - 600W
-- English study
+- English
 - Reading
 ---
 

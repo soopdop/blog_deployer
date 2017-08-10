@@ -2,9 +2,9 @@ layout: blog
 title: '[Movie] Spiderman 2002 - scene #5'
 date: 2016-11-21 23:32:40
 categories: 
-- English study
+- English
 tags:
-- English study
+- English
 - Movie
 ---
 

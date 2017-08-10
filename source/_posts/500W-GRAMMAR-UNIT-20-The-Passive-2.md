@@ -2,10 +2,10 @@ layout: blog
 title: '[500W][GRAMMAR] UNIT 20 - The Passive 2'
 date: 2016-11-13 21:11:55
 categories: 
-- English study
+- English
 tags:
 - 500W
-- English study
+- English
 - grammar
 ---
 

@@ -2,10 +2,10 @@ layout: blog
 title: '[500W][GRAMMAR] UNIT 23 - Relative clause with Where and When;Reduced Relative Clause'
 date: 2016-11-28 23:48:57
 categories: 
-- English study
+- English
 tags:
 - 500W
-- English study
+- English
 - grammar
 ---
 

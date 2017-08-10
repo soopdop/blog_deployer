@@ -2,9 +2,9 @@ layout: blog
 title: '[400][WRITING] Write a Opinion Paragraph'
 date: 2016-10-24 19:13:26
 categories: 
-- English study
+- English
 tags:
-- English study
+- English
 - 400
 - writing
 ---

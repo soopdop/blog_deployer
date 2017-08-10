@@ -2,9 +2,9 @@ layout: blog
 title: '[ETC] Reducing Adverb clauses'
 date: 2016-11-06 22:27:41
 categories: 
-- English study
+- English
 tags:
-- English study
+- English
 - etc
 ---
 

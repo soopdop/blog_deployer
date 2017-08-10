@@ -2,9 +2,9 @@ layout: blog
 title: '[ETC] Marry / Get Married / Be Married'
 date: 2016-10-12 21:05:54
 categories: 
-- English study
+- English
 tags:
-- English study
+- English
 - etc
 ---
 

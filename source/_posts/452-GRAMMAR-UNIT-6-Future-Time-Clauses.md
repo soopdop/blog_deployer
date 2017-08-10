@@ -2,10 +2,10 @@ layout: blog
 title: '[400][GRAMMAR] UNIT 6 - Future Time Clauses'
 date: 2016-10-25 11:23:51
 categories: 
-- English study
+- English
 tags:
 - 400
-- English study
+- English
 - grammar
 ---
 

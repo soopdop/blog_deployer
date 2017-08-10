@@ -3,7 +3,7 @@ layout: blog
 title: '[TIP] How to see console log in the JsFiddle : Firebug'
 date: 2017-07-03 15:07:10
 categories:
-- Book Summary
+- programming
 tags:
 - javascript, jsfiddle
 ---

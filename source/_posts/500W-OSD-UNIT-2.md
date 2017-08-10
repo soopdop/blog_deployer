@@ -2,10 +2,10 @@ layout: blog
 title: '[500W][OSD] UNIT 2'
 date: 2016-11-03 00:37:47
 categories: 
-- English study
+- English
 tags:
 - 500W
-- English study
+- English
 - osd
 ---
 

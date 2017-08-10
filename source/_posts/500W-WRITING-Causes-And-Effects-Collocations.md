@@ -2,10 +2,10 @@ layout: blog
 title: '[500W][WRITING] Causes And Effects Collocations'
 date: 2016-12-18 15:04:07
 categories: 
-- English study
+- English
 tags:
 - 500W
-- English study
+- English
 - writing
 ---
 

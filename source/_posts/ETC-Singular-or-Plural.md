@@ -2,9 +2,9 @@ layout: blog
 title: '[ETC] Singular or Plural'
 date: 2016-11-23 21:56:08
 categories: 
-- English study
+- English
 tags:
-- English study
+- English
 - etc
 ---
 

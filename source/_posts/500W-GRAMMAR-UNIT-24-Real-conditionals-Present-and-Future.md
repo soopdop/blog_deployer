@@ -2,10 +2,10 @@ layout: blog
 title: '[500W][GRAMMAR] UNIT 24 - Real conditionals:Present and Future'
 date: 2016-12-17 15:24:34
 categories: 
-- English study
+- English
 tags:
 - 500W
-- English study
+- English
 - grammar
 ---
 

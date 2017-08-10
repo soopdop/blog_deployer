@@ -2,10 +2,10 @@ layout: blog
 title: '[500E][GRAMMAR] UNIT 17,18 Indirect Speech and Indirect Questions'
 date: 2017-02-20 19:20:33
 categories: 
-- English study
+- English
 tags:
 - 500E
-- English study
+- English
 - grammar
 ---
 

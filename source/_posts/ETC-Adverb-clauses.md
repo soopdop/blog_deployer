@@ -2,9 +2,9 @@ layout: blog
 title: '[ETC] Adverb clauses'
 date: 2016-11-06 21:09:04
 categories: 
-- English study
+- English
 tags:
-- English study
+- English
 - etc
 ---
 

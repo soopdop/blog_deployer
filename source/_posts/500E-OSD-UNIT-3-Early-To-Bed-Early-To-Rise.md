@@ -2,10 +2,10 @@ layout: blog
 title: '[500E][OSD] UNIT 3 - Early To Bed, Early To Rise'
 date: 2017-01-24 20:50:52
 categories: 
-- English study
+- English
 tags:
 - 500E
-- English study
+- English
 - osd
 ---
 

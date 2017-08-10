@@ -2,9 +2,9 @@ layout: blog
 title: '[ETC] Conjunctive Adverbs'
 date: 2016-10-25 21:04:55
 categories: 
-- English study
+- English
 tags:
-- English study
+- English
 - etc
 ---
 

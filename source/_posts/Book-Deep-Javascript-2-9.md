@@ -2,9 +2,9 @@
 title: '[Book Summary] 속깊은 Javascript 2/9'
 date: 2017-06-26 15:10:24
 categories:
-- Book Summary
+- programming
 tags:
-- javascript
+- javascript, Book Summary
 ---
 
 {% asset_img cover.jpg%} 

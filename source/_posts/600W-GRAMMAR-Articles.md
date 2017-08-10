@@ -2,10 +2,10 @@ layout: blog
 title: '[600W][GRAMMAR] Articles'
 date: 2017-03-13 22:42:34
 categories: 
-- English study
+- English
 tags:
 - 600W
-- English study
+- English
 - Grammar
 ---
 

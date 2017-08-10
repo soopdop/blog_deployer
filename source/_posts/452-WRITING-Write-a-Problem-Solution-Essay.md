@@ -2,9 +2,9 @@ layout: blog
 title: '[400][WRITING] Write a Problem & Solution Essay'
 date: 2016-10-24 19:14:49
 categories: 
-- English study
+- English
 tags:
-- English study
+- English
 - 400
 - writing
 ---

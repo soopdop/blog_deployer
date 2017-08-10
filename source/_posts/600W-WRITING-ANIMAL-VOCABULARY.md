@@ -2,10 +2,10 @@ layout: blog
 title: '[600W][WRITING] Animal Vocabulary'
 date: 2017-03-20 00:19:32
 categories: 
-- English study
+- English
 tags:
 - 600W
-- English study
+- English
 - writing
 ---
 

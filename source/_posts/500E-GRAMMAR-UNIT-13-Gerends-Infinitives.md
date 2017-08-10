@@ -2,10 +2,10 @@ layout: blog
 title: '[500E][GRAMMAR] UNIT 13 - Gerends / Infinitives'
 date: 2017-01-31 17:44:52
 categories: 
-- English study
+- English
 tags:
 - 500E
-- English study
+- English
 - grammar
 ---
 

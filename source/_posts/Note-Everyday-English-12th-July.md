@@ -3,9 +3,9 @@ layout: blog
 title: '[Note] Everyday English - 12th July'
 date: 2017-07-13 08:19:36
 categories: 
-- English study
+- English
 tags:
-- English study
+- English
 ---
 
 # Pronunciation
@@ -31,7 +31,7 @@ tags:
     - e.g.) You only consider yourself.
 1. He likes to learn.
 
-# etc
+# etc.
 
 1. many hats to wear
     - many responsibilities

@@ -2,10 +2,10 @@ layout: blog
 title: '[600W][GRAMMAR] Agreement with Nouns'
 date: 2017-03-13 23:22:36
 categories: 
-- English study
+- English
 tags:
 - 600W
-- English study
+- English
 - Grammar
 ---
 

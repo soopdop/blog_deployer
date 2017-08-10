@@ -2,9 +2,9 @@ layout: blog
 title: '[ETC] Verb forms'
 date: 2016-10-12 21:04:55
 categories: 
-- English study
+- English
 tags:
-- English study
+- English
 - etc
 ---
 

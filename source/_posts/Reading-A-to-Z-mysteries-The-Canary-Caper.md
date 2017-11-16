@@ -22,10 +22,18 @@ tags:
 	- 곧장 가다. (to move quickly and directly toward something)
 	- Beeline : 직선코스
 	- Josh made a beeline for the cookie jar.
-1. Take time
-	- 
+1. Take one's time ~ing
+	- ~ 천천히해. 서두르지마.
+	- Take time brushing
+1. flop
+	- 털썩 앉다.
+	- Josh grabbed the apple juice and flopped into a chair.
 1. Leap up
+	- 뛰어 오르다.
+	- leaping up the stairs.
 1. Shrugged
+	- 으쓱하다.
+	
 1. Plump
 1. Race you
 1. Cut through

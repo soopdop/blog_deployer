@@ -39,21 +39,29 @@ tags:
 	- Race you - "let's have a race to see who can run the faster!"
 	- "Tiger is plump," she said, "not fat. Race you!"
 1. Cut through
-	- cut throungh - 뚷고 지나가다. 헤치고 나가다. (공격수가 수비 수를...)
+	- cut through - 뚷고 지나가다. 헤치고 나가다. (공격수가 수비 수를...)
 	- Kids cut through a bunch of circus trailers and trucks on their way to the admissions gate.
 1. Gobble down
-	- You probably gobbled down half my mom's cookies.
+	- 설신들리듯 먹다.
+	- "You probably gobbled down half my mom's cookies."
 1. Stilts
-	- In clown corder, a clown dressed as a giraffe dnaced on stils.	
+	- 죽마 고우의 그 죽마. 장대 같은 것을 두 다리에 끼고 노는 것.
+	- In clown Corner, a clown dressed as a giraffe danced on stilts.
 1. Yelped
+	- 비명을 내지르다.
 	- "Your little brother!"" Josh yelped.
 1. Hung up
+	- 전화를 끊다.
 	- "She says Mozart hasn't come back," Dink told Josh after he'd hung up.
 1. Poked into
+	- 찔러 넣다. 쑥 집어 넣다.
 	- Ruth Rose pocked her head into Dink's tent.
-1. Shot up out of
+1. Shot up out of a sound sleep
+	- sound sleep - 숙면
+	- shot up - ???
 	- Dink shot up out of a sound sleep.
-1. Ducked back out of
+1. Ducked
+	- 쑥 들어가다.
 	- Then she ducked back out of the tent.
 1. Rolled over
 	- Josh rolled over in his sleeping bag.

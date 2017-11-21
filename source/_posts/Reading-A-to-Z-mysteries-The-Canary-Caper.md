@@ -64,22 +64,27 @@ tags:
 	- 쑥 들어가다.
 	- Then she ducked back out of the tent.
 1. Rolled over
+	- 구르다.
 	- Josh rolled over in his sleeping bag.
 1. Crawled out
+	- 살금살금 기어 나오다.
 	- Dink and Josh looked at each other, then crawled out after her.
 1. Stop pacing
+	- 서성거리다.
 	- Ruth Rose stopped pacing and looked at them.
-1. I’m taking Nate home
-	- I'm taking Nate home.
 1. Squeaked a hello
+	- 찍/끽/꽥 소리를 내다.
 	- Loreta, his guinea pig, squeaked a hello to Dink from her cage.
 1. Slurping up
+	- 
 	- Josh was slurping up his Weet Treets when Dink came back down.
 1. Sipping tea
+	- 홀짝거리다. 
 	- He was typing at his computer, chewing gum, and sipping tea all at the same time.
-1. Have a sit. I’m all ears.
-	-
+1. I’m all ears.
+	- 듣고 있다. (= I'm listening)
 1. Pulled out
+	- 
 	- He opened his drawer and pulled out a sheet of paper.
 1. Nodded
 	- Officer Fallon nodded.

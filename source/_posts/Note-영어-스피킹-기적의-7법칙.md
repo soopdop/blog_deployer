@@ -35,4 +35,3 @@ be, have, do, say, go, get, make, see, know, take, think, come, give, look, use,
     4. 대비 어구 멜로디 - 대비되는 단어를 높인다. e.g. The **large** table is more expensive than the **small** one.
 
 # Chapter 5. 이정표가 되는 언어를 자주 사용한다
-

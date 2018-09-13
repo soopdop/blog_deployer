@@ -29,9 +29,44 @@ be, have, do, say, go, get, make, see, know, take, think, come, give, look, use,
 1. 멜로디가 문법보다 중요하다.
 2. 포커스 워드에 가장 높은 톤을 두는 것이 영어 멜로디의 기본이다.
 3. 다음의 4가지 문장 유형에 쓰이는 멜로디가 정해져 있다.
-    1. Yes/No 의문문 멜로디 - 끝이 올라간다. e.g. Did you get my **message**?
-    2. wh- 의문문 멜로디 - 의문사는 높이고, 끝은 내린다. e.g. **When** will the sale begin?
-    3. 항목 나열 멜로디 - 쉼표 앞에서 높이고, 가장 끝 항목에서는 내린다. e.g. We can get gim**bab**, bibim**bab**, kal**bi**, or bulgogi.
-    4. 대비 어구 멜로디 - 대비되는 단어를 높인다. e.g. The **large** table is more expensive than the **small** one.
+    - Yes/No 의문문 멜로디 - 끝이 올라간다. e.g. Did you get my **message**?
+    - wh- 의문문 멜로디 - 의문사는 높이고, 끝은 내린다. e.g. **When** will the sale begin?
+    - 항목 나열 멜로디 - 쉼표 앞에서 높이고, 가장 끝 항목에서는 내린다. e.g. We can get gim**bab**, bibim**bab**, kal**bi**, or bulgogi.
+    - 대비 어구 멜로디 - 대비되는 단어를 높인다. e.g. The **large** table is more expensive than the **small** one.
 
 # Chapter 5. 이정표가 되는 언어를 자주 사용한다
+
+## 새로운 화제 시작하기
+
+1. So, 그래서,
+    - So, how's your work going?
+2. Well, 자, 
+   - Well, I got an email form my friend in New York.
+
+## 의견 말하기
+
+1. In my view, 제 견해로는/제 생각에는,
+   - In my view, there is a difficulty with their marketing.
+2. It seems to me that... 저한테는 ~인 것 같은데요.
+   - It seems to me that the stores are more crowded than last year.
+
+## 이유 말하기 
+
+1. I say this because... ~때문에 말하는 겁ㄴ다.
+   - I say this because the prices were lower last year
+2. Here's why. 그 이유는 그렇습니다.
+   - Here's why. The weather will be cooler and there will be fewer tourists.
+
+## 자신이 말한 것을 더 명확하게 혹은 구체화하기
+
+1. In fact, 사실
+    - In fact, I sent you two emails last month.
+2. You know, 아시겠지만,
+    - You know, it's hard to understand his pronunciation.
+  
+## 예를 들기
+
+1. For example, 예를 들어
+   - For example, the company had a ten percent decrease in sales.
+2. For instance, 예를 들어
+   - For instance, our city began a traffic safety compaign.

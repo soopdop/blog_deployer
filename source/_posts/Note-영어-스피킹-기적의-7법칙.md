@@ -70,3 +70,64 @@ be, have, do, say, go, get, make, see, know, take, think, come, give, look, use,
    - For example, the company had a ten percent decrease in sales.
 2. For instance, 예를 들어
    - For instance, our city began a traffic safety compaign.
+
+## 덧붙이기
+
+1. Also, 게다가
+    - Also, you might want to order coffee.
+2. In addition, 게다가
+    - In adition, there is a good mall nearby.
+
+## 순서 제시하기
+
+1. First of all, 첫째
+    - First of all, I'm concerned about being over budget.
+2. And then, 그러고 나서 / Next, 다음에 / After that, 그 이후에 / Finally, 마지막으로
+    - And then, we visited the museum.
+    - Next, we had lunch.
+    - After that, we returned to the hotel.
+    - Finally, we wen to bed.
+
+## 결과 말하기
+
+1. As a result, 결과적으로
+    - As a result, I couldn't attend the meeting.
+2. Consequently, 결론적으로 
+    - Consequently, we cancelled our reservation.
+   
+## 이전에 말한 것 언급하기
+
+1. Previously, 이전에, 미리
+    - Previously, we talked about the schedule.
+2. Earlier, 예상보다 일찍, 앞서
+    - Earlier, you requested information about our employees.
+
+## 비교, 대비하기
+
+1. Compared with X, X에 비해
+    - Compared with public schools, private schools offer smaller classes.
+2. In contrast, 대조적으로
+    - In contrast, our competitors are incresing their marketing budget.
+
+## 강조하기
+
+1. Clearly, 분명하게
+    - Clearly, the most exciting scientific advances are in biotechnology.
+2. Certainly, 틀림없이
+    - Certainly, I agree with you.
+
+## 복잡한 것을 짧게 말하기
+
+1. In brief, 요약하면
+    - In brief, customers pay attention to price more than quality.
+2. In a nutshell, 한마디로 말해서
+    - In a nutshell, diet and exercise are the only ways to lose weight.
+
+## 말한 것을 반복하기
+
+1. As (I) mentioned earlier, 앞서 (제가) 말했듯이
+    1. As I mentioned earlier, I have to go to New York in May
+2. As (I) noted before, 전에 언급했듯이
+    1. As noted before, several people have complained about the noise.
+3. As I told you before: 아이에게 말하는 것 같은 뉘앙스가 있기 때문에 피하는 것이 좋다.
+   

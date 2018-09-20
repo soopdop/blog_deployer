@@ -238,7 +238,7 @@ be, have, do, say, go, get, make, see, know, take, think, come, give, look, use,
 
 ### 상대방의 말에 대꾸할 때
 
-1. I see2. 
+1. I see. 
 3. Really?
 4. Is that so?
 5. Oh?

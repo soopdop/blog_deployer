@@ -177,3 +177,73 @@ be, have, do, say, go, get, make, see, know, take, think, come, give, look, use,
 ### 우선 하는 것을 말할 때
 
 1. As I see it, the most important point is ...
+    - 내가 볼 때 가장 중요한 것은...
+2. In my view, the main thing is ...
+    - 내가 보기에 중요한 것은 ...
+
+### 상대방이 이해했는지 확인하고 싶을 때
+
+1. Does that make sense?
+    - 이해가 되세요?
+2. Do you follow me?
+    - 이해가 되세요?
+
+### 상대방의 이야기가 잘 이해되지 않았을 때
+
+1. I didn't quite catch that.
+    - 저는 이해가 잘 안 되는데요.
+2. I'm not sure I follow you.
+    - 무슨 말씀이신지 확실히 이해가 안 돼요.
+
+### 이야기를 끊거나 질문하고 싶을 때
+
+1. Uh, could I just say ...?
+    - 어. ~라고 말해도 될까요?
+2. Uh, I have a quick question.
+    - 어, 간단한 질문 하나 드리겠습니다.
+
+### 상대방에게 찬성할 수 없을 때
+
+1. Yes, that may be true, but ...
+    - 맞아요. 그게 사실일지도 모르겠지만 ...
+2. Well, I can see your point, but ...
+    - 글쎄요. 말씀의 요지는 알겠지만 ...
+3. I see what you mean, but ...
+    - 말씀하시는 것은 알겠지만 ..
+
+### 제안할 때
+
+1. I might be a good idea if we ...
+    - 우리가 ~하는 것도 좋은 생각일 수 있어요.
+2. Lest's ...
+    - ~ 합시다.
+
+### 찬성할 때
+
+1. That sounds good.
+    - 좋아요
+2. That's a great idea.
+    - 좋은 생각인데요.
+
+### 조건을 말할 때
+
+1. It depends on what you mean.
+    - 당신이 하는 말이 무슨 뜻인지에 달려 있지요.
+2. It depends on what you are going.
+    - 당신이 어디에 가느냐에 달려 있지요.
+3. It depends on who is doing the experiment.
+    - 누가 실험을 하느냐에 달려 있지요.
+4. It depends on our buget.
+    - 우리 예산에 달려있지요.
+
+### 상대방의 말에 대꾸할 때
+
+1. I see2. 
+3. Really?
+4. Is that so?
+5. Oh?
+6. Uh-huh
+7. Mm-mm.
+8. How interesting!
+9. Cool!
+10. Awesome!

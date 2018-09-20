@@ -126,8 +126,54 @@ be, have, do, say, go, get, make, see, know, take, think, come, give, look, use,
 ## 말한 것을 반복하기
 
 1. As (I) mentioned earlier, 앞서 (제가) 말했듯이
-    1. As I mentioned earlier, I have to go to New York in May
+    - As I mentioned earlier, I have to go to New York in May
 2. As (I) noted before, 전에 언급했듯이
-    1. As noted before, several people have complained about the noise.
+    - As noted before, several people have complained about the noise.
 3. As I told you before: 아이에게 말하는 것 같은 뉘앙스가 있기 때문에 피하는 것이 좋다.
    
+## 감정이나 태도 표현하기
+
+1. Surprisingly, 놀랍게도
+    - Surprisingly, the plane arrived early.
+2. Sadly, 슬프게도
+    - Sadly, no one survived the plane carsh.
+3. Fortunately, 다행스럽게도
+    - Fortunately, I got a big bonus this year.
+4. Interestingly, 흥미롭게도
+    - Interestingly, people now prefre buing books on the Internet
+5. Luckily, 다행스럽게도
+    - Luckily, we checked the room before everyone arrived.
+6. Unfortunatly, 흥미롭게도
+    - Unforunatly, I forgot to bring my phone
+7. Frankly, 솔직히
+    - Franlky, you message arrived too late.
+8. Amazingly, 놀랍게도
+    - Amazingly, they agreed to all of our requests.
+
+
+## 결론 짓기, 끝으로 요약하기
+
+1. To sum up, 요약하자면,
+    - To sum up, there is no way we can finish the project on time.
+2. In conclusion, 결론적으로,
+    - In conclusion, the cost depends on the size of the order and the delivery date.
+
+## 관용적인 이정표 언어
+
+### 상대방의 이야기가 잘 이해되지 않아 확인하고 싶을 때
+
+1. Let me be sure I understand what you've said
+    - 당신이 말한 내용을 제가 제대로 이해했는지 확인하고 싶습니다.
+2. I hear you saying
+    - ~라고 하신 것 맞죠?
+
+### 상대방이 더 잘 이해하도록 하기 위해 또는 상대가 이해햇는지 확인하기 위해 다시 한번 바꾸어 말할 때
+
+1. Here's what I mean.
+    - 제 말은 이런 뜻입니다.
+2. The point I am trying to make is ...
+    - 내가 말하고자 하는 요점은 ...
+
+### 우선 하는 것을 말할 때
+
+1. As I see it, the most important point is ...

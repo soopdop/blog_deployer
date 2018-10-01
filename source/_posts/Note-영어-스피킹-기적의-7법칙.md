@@ -247,3 +247,21 @@ be, have, do, say, go, get, make, see, know, take, think, come, give, look, use,
 8. How interesting!
 9. Cool!
 10. Awesome!
+
+# Chapter 6. 메세지 디자인
+
+메세지를 전달 할 때 쓰는 생각의 구성 방법이 영어 원어민과 한국 인이 다르다. 
+
+1. 주장 - 이유 - 예 순서는 성공적인 커뮤니케이션의 핵심이다.
+2. 메세지를 쉽게 구성하는 스피킹 공식
+    - I think X, becuase Y. For exmaple, ...
+3. 리스닝 할때도, 부족한 정보가 있으면 물어본다.
+    - 주장이 없을 때
+        - What's the problem?
+        - What's your idea/suggestion?
+    - 이유가 없을 때
+        - Why is that?
+        - Why do you suggest that?
+    - 예나 증거가 없을 때
+        - Can you give me an example?
+        - In what ways?

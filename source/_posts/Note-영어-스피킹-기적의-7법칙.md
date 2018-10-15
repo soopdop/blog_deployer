@@ -265,3 +265,51 @@ be, have, do, say, go, get, make, see, know, take, think, come, give, look, use,
     - 예나 증거가 없을 때
         - Can you give me an example?
         - In what ways?
+
+# Chapter 7. Small talk
+
+스몰토크는 본 화제로 가기 전, 딱딱해질 수 있는 분위기에서 말문을 트며서 하는 비교적 가벼운 주제의 대화를 가리키는 말이다. 영어권에서는 이 스몰토크가 매우 중요시되고 있다.
+
+1. 스몰토크의 공식 SEE
+    - Seek - 공통의 화제 찾기
+    - Expand - 대답 확장하기
+    - Encourage - 대화 더 이끌어내기
+
+## 제1 공식: Seek 공통의 화제
+
+### 쉽게 공유할 수 있는 화제를 꺼낸다.
+
+1. 날씨
+2. 상황상 공유할 수 있는 화제 찾아보기
+3. 음식
+
+### 약간의 준비로 듣는 사람을 매료 시킬 수 있다
+
+한국 음식에 대해서 미리 공부를 해서 해둘 말을 조금 준비해 둔다.
+- One of the most popular foods in Korea is ...
+- A popular winter dish is ...
+- A popular summer dish is ...
+- At New Year's Day, it's traditional for us to eat sooup called ddeokguk, because ...
+- In midsummer, many people like to eat samgaetang, because ...
+
+### 그 밖의 좋은 화제들
+
+1. 가족
+    - Tell me a little about your  family
+    - Do you have any brothers or sisters?
+    - What does your family like to do?
+    - Does your family have any pets?
+2. 지리
+    - What city do you live in?
+    - Why did you decide to live there?
+    - What are soem fo your favorit places in the world?
+    - Where do you like to go on vacation?
+3. 공항
+    - Are you traveling for business or pleasure?
+    - Where are you from?
+    - Why is the airport so crowded today?
+4. 회의 세미나
+    - I really enjoyed that last presentation.
+    - I didn't realize there were so many views on the future of the computer industry.
+    - Where are you staying?
+    - How often do you go to conferences like this?

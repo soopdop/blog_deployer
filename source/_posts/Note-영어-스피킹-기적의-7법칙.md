@@ -313,3 +313,68 @@ be, have, do, say, go, get, make, see, know, take, think, come, give, look, use,
     - I didn't realize there were so many views on the future of the computer industry.
     - Where are you staying?
     - How often do you go to conferences like this?
+
+## 2. 제 2공식: 대답 확장하기
+
+"날씨가 춥다"는 말에 "네 그러네요" 라고만 답하면 어색함을 부르는 대답이다. 대화를 이어나가게 하려면 나의 정보를 섞어서 다음과 같이 말하는 것이 좋다.
+
+```Yes, but it's perfect weather for walking my dong in thepark.```
+
+그러면 다음과 같은 질문으로 발전 시켜 나갈 수 있다.
+
+1. What kind of dog do you have?
+2. How often do yo go to the park?
+3. So you seem to enjoy cold weather.
+
+## 제 3 공식: 대화 더 이끌어 내기
+
+대화를 하다보면 처음 2-3분 정도는 쉬운데, 갑자기 대화가 뚝 끊기는 경우가 있다. 그럴 때 유용한 몇가지 방법이 있다.
+
+1. 몸으로 표현하기
+    - 고개 끄덕이기
+    - 눈마주치기
+    - 표정 변화
+2. 말로 표현하기
+    - Uh-huh / Mm-mm
+        - 듣고 있음을 알림
+    - I see
+        - 아, 그렇군요.
+    - How interesting!
+        - 정말 흥미로운데요!
+    - Really!
+        - 정말? 내려가는 톤의 Reallly는 흥미를 표현할 때 사용된다.
+    - Is that so?
+        -  그렇습니까? 조금 놀랐음.
+    - Oh, That's ______! : 정말 ~하네요!
+        - great, awful, amazing, so sad, exciting, terrible, incredible, depressing, wonderful, shocking 등의 공감하는 형용사를 넣을 수가 있다.
+    - Cool! / Awesome!
+        -  잘됐다! 젋은 세대들의 응답표현. 거의 모든 상황에 사용 가능.
+
+비 협조적인 상대와 대화하는 비장의 무기가 있다. 정보를 묻는 질문을 하는 것. 예를 들면, Are you going on vacation this summer? 라고 질문 하면, Yes/No 대답하면 끝. 하지만, So, where are you going? 이라고 정보를 묻는 질문을 하면 대답을 할 수 밖에 없게 된다.
+
+1. 화제를 제안해 줄 정보를 묻는 질문
+    - What are your plans for this weekend?
+    - Where would you recommend going for a good vacation
+    - When does the weather usually become hot?
+    - Why is it so crowded today?
+    - How is your family doing?
+
+## Small talk 공식 정리 \<SEE\>
+
+1. Seek
+    - The train is more crowded than I expected.
+2. Expand
+    - Usually I take a later train, but today I want to get home early, because it's my son's birthday.
+3. Encourage
+    - How often do you take this train?
+
+## 추가
+
+1. 취미를 영어로 설명할 수 있도록 연습한다.
+    - 자신의 취미가 무엇이며, 왜 그것이 좋은지 영어로 설명하는 연습을 미리 해둬야 한다. 
+    - 다른 사람이 재미있다고 생각할 만한 방법으로 자신이 좋아하는 화제에 대해 이야기할 수 있도록 연습한다.
+    - **아무 준비 없이 내용이나 말투 모두 자신있게 말한 다는 것은 원어민에게도 쉬운 일이 아니므로, 어느 정도의 사전 준비를 해둘 것을 강력히 추천함**.
+2. 스몰토크를 위한 초간단 기술 - 이름 넣어 말하기
+    - 상대방의 이름을 넣어서 말하면, 문화적인 장벽을 없애고 친근감이 더해진다는 연구결과가 있음.
+    - Oh, Amy, it's very nice to meet you.
+    - Thank you, David, I'm glad to meet you.

@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: '[Note] 영어 스피킹 기적의 7법칙'
+title: '[Summary] 영어 스피킹 기적의 7법칙'
 date: 2018-09-12 09:37:59
 tags:
 ---
@@ -40,7 +40,7 @@ be, have, do, say, go, get, make, see, know, take, think, come, give, look, use,
 
 1. So, 그래서,
     - So, how's your work going?
-2. Well, 자, 
+2. Well, 자,
    - Well, I got an email form my friend in New York.
 
 ## 의견 말하기
@@ -50,7 +50,7 @@ be, have, do, say, go, get, make, see, know, take, think, come, give, look, use,
 2. It seems to me that... 저한테는 ~인 것 같은데요.
    - It seems to me that the stores are more crowded than last year.
 
-## 이유 말하기 
+## 이유 말하기
 
 1. I say this because... ~때문에 말하는 겁ㄴ다.
    - I say this because the prices were lower last year
@@ -63,7 +63,7 @@ be, have, do, say, go, get, make, see, know, take, think, come, give, look, use,
     - In fact, I sent you two emails last month.
 2. You know, 아시겠지만,
     - You know, it's hard to understand his pronunciation.
-  
+
 ## 예를 들기
 
 1. For example, 예를 들어
@@ -92,9 +92,9 @@ be, have, do, say, go, get, make, see, know, take, think, come, give, look, use,
 
 1. As a result, 결과적으로
     - As a result, I couldn't attend the meeting.
-2. Consequently, 결론적으로 
+2. Consequently, 결론적으로
     - Consequently, we cancelled our reservation.
-   
+
 ## 이전에 말한 것 언급하기
 
 1. Previously, 이전에, 미리
@@ -130,7 +130,7 @@ be, have, do, say, go, get, make, see, know, take, think, come, give, look, use,
 2. As (I) noted before, 전에 언급했듯이
     - As noted before, several people have complained about the noise.
 3. As I told you before: 아이에게 말하는 것 같은 뉘앙스가 있기 때문에 피하는 것이 좋다.
-   
+
 ## 감정이나 태도 표현하기
 
 1. Surprisingly, 놀랍게도
@@ -238,7 +238,7 @@ be, have, do, say, go, get, make, see, know, take, think, come, give, look, use,
 
 ### 상대방의 말에 대꾸할 때
 
-1. I see. 
+1. I see.
 3. Really?
 4. Is that so?
 5. Oh?
@@ -250,7 +250,7 @@ be, have, do, say, go, get, make, see, know, take, think, come, give, look, use,
 
 # Chapter 6. 메세지 디자인
 
-메세지를 전달 할 때 쓰는 생각의 구성 방법이 영어 원어민과 한국 인이 다르다. 
+메세지를 전달 할 때 쓰는 생각의 구성 방법이 영어 원어민과 한국 인이 다르다.
 
 1. 주장 - 이유 - 예 순서는 성공적인 커뮤니케이션의 핵심이다.
 2. 메세지를 쉽게 구성하는 스피킹 공식
@@ -371,7 +371,7 @@ be, have, do, say, go, get, make, see, know, take, think, come, give, look, use,
 ## 추가
 
 1. 취미를 영어로 설명할 수 있도록 연습한다.
-    - 자신의 취미가 무엇이며, 왜 그것이 좋은지 영어로 설명하는 연습을 미리 해둬야 한다. 
+    - 자신의 취미가 무엇이며, 왜 그것이 좋은지 영어로 설명하는 연습을 미리 해둬야 한다.
     - 다른 사람이 재미있다고 생각할 만한 방법으로 자신이 좋아하는 화제에 대해 이야기할 수 있도록 연습한다.
     - **아무 준비 없이 내용이나 말투 모두 자신있게 말한 다는 것은 원어민에게도 쉬운 일이 아니므로, 어느 정도의 사전 준비를 해둘 것을 강력히 추천함**.
 2. 스몰토크를 위한 초간단 기술 - 이름 넣어 말하기

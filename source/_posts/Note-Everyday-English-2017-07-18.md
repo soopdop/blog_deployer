@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: '[Note] Everyday English - 18th July'
+title: '[Summary] Everyday English - 18th July'
 date: 2017-07-19 09:26:42
-categories: 
+categories:
 - English
 tags:
 - English
@@ -17,7 +17,7 @@ tags:
     - e.g. Have you made any new year's resolution?
 
 # Sentences
-1. It's too old and not repaired. 
+1. It's too old and not repaired.
 1. He doesn't think it's serious.
 1. I'd like to leave as soon as possible.
 

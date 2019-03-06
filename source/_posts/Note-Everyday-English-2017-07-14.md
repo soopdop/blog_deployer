@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: '[Note] Everyday English - 14th July'
+title: '[Summary] Everyday English - 14th July'
 date: 2017-07-14 11:15:21
-categories: 
+categories:
 - English
 tags:
 - English
@@ -13,11 +13,11 @@ tags:
 
 # Words & Expressions
 1. Sort out
-    - 사진 정리한다는 표현을 쓰고 싶을 때. organize나 clean up(?) 
+    - 사진 정리한다는 표현을 쓰고 싶을 때. organize나 clean up(?)
 
 # Sentences
-1. Every woman has their own best angle for selfie. 
-1. She doesn't like to be in the picture. 
+1. Every woman has their own best angle for selfie.
+1. She doesn't like to be in the picture.
 
 # etc
 1. care about
@@ -31,4 +31,3 @@ tags:
         - 이것은 have + something + p.p 패턴
         - e.g. I have my hair cut.
         - e.g. I got my car washed.
-    

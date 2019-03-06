@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: '[Note] Everyday English - 14th September'
+title: '[Summary] Everyday English - 14th September'
 date: 2017-09-14 10:18:04
-categories: 
+categories:
 - English
 tags:
 - English

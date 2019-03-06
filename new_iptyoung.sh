@@ -7,4 +7,4 @@ else
     DATE=$1
 fi
 
-hexo new iptyoung "[Note] 입트영 $DATE"
+hexo new iptyoung "[Summary] 입트영 $DATE"

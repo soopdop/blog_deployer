@@ -1,15 +1,15 @@
 ---
 layout: blog
-title: '[Note] Tyler Rasch''s Real American English'
+title: '[Summary] Tyler Rasch''s Real American English'
 date: 2017-12-07 13:38:37
-categories: 
+categories:
 - English
 tags:
 - English
 ---
 
 ## 1. 번창하세요!
-Congratulations! Keep it up! 	
+Congratulations! Keep it up!
 
 ## 2. 저 몸치예요.
 I can't dance to save my life.
@@ -19,7 +19,7 @@ Kill it!
 - Show'em who's boss : 누가 보스인지 보여줘.
 
 ## 4. 손이 열 개라도 모자라요.
-I'm up to my neck in work. 
+I'm up to my neck in work.
 - 뜻: 일이 너무 많아 목까지 가득 찼다
 
 ## 5. 짚신도 짝이 있을 거예요.

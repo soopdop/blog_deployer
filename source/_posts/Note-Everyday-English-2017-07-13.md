@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: '[Note] Everyday English - 13th July'
+title: '[Summary] Everyday English - 13th July'
 date: 2017-07-14 09:26:23
-categories: 
+categories:
 - English
 tags:
 - English
@@ -14,7 +14,7 @@ tags:
 
 # Words & Expressions
 1. along with it
-    - 그것과 동시에, 함께 
+    - 그것과 동시에, 함께
 1. get along with someone
     - ~와 잘 어울리다.
 1. all-time favorite

@@ -9,12 +9,41 @@ tags:
 
 # Business Dictionary
 
-## A WORD - 의미
-- Example sentence
+## WORD - 의미
+- Example_sentence
+- 해석
+
+## WORD - 의미
+- Example_sentence
+- 해석
+
+## WORD - 의미
+- Example_sentence
+- 해석
+
+## WORD - 의미
+- Example_sentence
+- 해석
 
 # Today's Expressions
 
-## An expression - 의미
-- Example sentence
+## EXPRESSION - 의미
+- Example_sentence
+- 해석
+
+## EXPRESSION - 의미
+- Example_sentence
+- 해석
+
+## EXPRESSION - 의미
+- Example_sentence
+- 해석
+
+## EXPRESSION - 의미
+- Example_sentence
+- 해석
 
 # Useful Expressions
+
+## EXPRESSION - 의미
+- 해석
